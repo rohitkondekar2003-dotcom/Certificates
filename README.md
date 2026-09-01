@@ -14,5 +14,4 @@ I successfully completed the **Advance Excel** course from **IT Vedant** on **12
 This certification demonstrates my ability to use Microsoft Excel for data analysis, reporting, and visualization.
 
 ### 📄 Certificate
-
-[View Certificate](./AdvanceExcel.pdf)
+[View Certificate](./Advance_Excel.pdf)
